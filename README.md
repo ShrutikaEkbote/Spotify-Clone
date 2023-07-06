@@ -1,3 +1,13 @@
+
+https://github.com/ShrutikaEkbote/Spotify-Clone/assets/130368572/0510d0f0-932f-4a94-9d56-460c6570a005
+
+
+
+
+
+
+
+
 # Spotify-Clone
 The Spotify Clone is a web application that replicates the core features and functionalities of the popular music streaming service, Spotify. Built using HTML, CSS, and JavaScript, this project aims to provide users with an immersive music experience similar to the original platform.
 Project Description: Spotify Clone
