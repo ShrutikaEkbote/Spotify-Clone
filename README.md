@@ -3,7 +3,7 @@ https://github.com/ShrutikaEkbote/Spotify-Clone/assets/130368572/0510d0f0-932f-4
 
 
 
-website link :https://64a5889b53f6e10079cb6591--radiant-gelato-23dc48.netlify.app/
+website link:https://master--visionary-beignet-c9e59a.netlify.app/
 
 
 
